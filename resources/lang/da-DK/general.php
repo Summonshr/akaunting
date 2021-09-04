@@ -25,7 +25,7 @@ return [
     'permissions'           => 'Tilladelse|Tilladelser',
     'modules'               => 'App|Apps',
     'companies'             => 'Enhed|Enheder',
-    'profits'               => 'Overskud|Overskud',
+    'profits'               => 'Resultat|Resultater',
     'taxes'                 => 'Moms|Moms',
     'logos'                 => 'Logo|Logoer',
     'pictures'              => 'Billede|Billeder',
