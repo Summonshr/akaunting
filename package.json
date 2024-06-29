@@ -33,7 +33,7 @@
         "flatpickr": "^4.6.3",
         "fuse.js": "^3.2.0",
         "google-maps": "^3.2.1",
-        "jquery": "^3.4.1",
+        "jquery": "^3.7.1",
         "lodash": "^4.17.15",
         "nouislider": "^12.1.0",
         "nprogress": "^0.2.0",
